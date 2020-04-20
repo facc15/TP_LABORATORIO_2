@@ -1,0 +1,13 @@
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\bin\Debug\ClassLibrary1.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\bin\Debug\ClassLibrary1.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete

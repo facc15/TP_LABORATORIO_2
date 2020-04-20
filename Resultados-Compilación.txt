@@ -1,0 +1,5 @@
+﻿1>------ Operación Compilar iniciada: proyecto: Entidades, configuración: Debug Any CPU ------
+1>  Entidades -> E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+2>------ Operación Compilar iniciada: proyecto: MiCalculadora, configuración: Debug Any CPU ------
+2>  MiCalculadora -> E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TP1\ClassLibrary1\MiCalculadora\bin\Debug\MiCalculadora.exe
+========== Compilar: 2 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
