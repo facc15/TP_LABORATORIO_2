@@ -118,7 +118,7 @@ namespace Entidades
         /// <returns></returns>
         public static Estacionamiento operator +(Estacionamiento c, Vehiculo p)
         {
-            if(c.vehiculos.Count()  < c.espacioDisponible )
+            if(c.vehiculos.Count < c.espacioDisponible)
             {         
                     foreach(Vehiculo v in c.vehiculos)
                     {

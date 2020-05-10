@@ -17,3 +17,9 @@ E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TP-02 - Alumno\TP-0
 E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.dll
 E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 2\Entidades\obj\Debug\Entidades.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 2\Entidades\obj\Debug\Entidades.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 2\Entidades\bin\Debug\Entidades.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 2\Entidades\bin\Debug\Entidades.pdb
