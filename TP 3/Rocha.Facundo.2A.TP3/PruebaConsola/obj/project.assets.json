@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Archivos/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Excepciones": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Archivos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Archivos.dll": {}
+        }
+      },
+      "Clases Abstractas/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Excepciones": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Clases Abstractas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clases Abstractas.dll": {}
+        }
+      },
+      "Clases Instanciables/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Archivos": "1.0.0",
+          "Clases Abstractas": "1.0.0",
+          "Excepciones": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Clases Instanciables.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clases Instanciables.dll": {}
+        }
+      },
+      "Excepciones/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Excepciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Excepciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Archivos/1.0.0": {
+      "type": "project",
+      "path": "../Archivos/Archivos.csproj",
+      "msbuildProject": "../Archivos/Archivos.csproj"
+    },
+    "Clases Abstractas/1.0.0": {
+      "type": "project",
+      "path": "../Clases Abstractas/Clases Abstractas.csproj",
+      "msbuildProject": "../Clases Abstractas/Clases Abstractas.csproj"
+    },
+    "Clases Instanciables/1.0.0": {
+      "type": "project",
+      "path": "../Clases Instanciables/Clases Instanciables.csproj",
+      "msbuildProject": "../Clases Instanciables/Clases Instanciables.csproj"
+    },
+    "Excepciones/1.0.0": {
+      "type": "project",
+      "path": "../Excepciones/Excepciones.csproj",
+      "msbuildProject": "../Excepciones/Excepciones.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Clases Instanciables >= 1.0.0",
+      "Excepciones >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Facundo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Programacion\\Segundo cuatrimestre\\Laboratorio 2\\TPs\\TP-01\\TP 3\\Rocha.Facundo.2A.TP3\\PruebaConsola\\PruebaConsola.csproj",
+      "projectName": "PruebaConsola",
+      "projectPath": "E:\\Programacion\\Segundo cuatrimestre\\Laboratorio 2\\TPs\\TP-01\\TP 3\\Rocha.Facundo.2A.TP3\\PruebaConsola\\PruebaConsola.csproj",
+      "packagesPath": "C:\\Users\\Facundo\\.nuget\\packages\\",
+      "outputPath": "E:\\Programacion\\Segundo cuatrimestre\\Laboratorio 2\\TPs\\TP-01\\TP 3\\Rocha.Facundo.2A.TP3\\PruebaConsola\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Facundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\Programacion\\Segundo cuatrimestre\\Laboratorio 2\\TPs\\TP-01\\TP 3\\Rocha.Facundo.2A.TP3\\Clases Instanciables\\Clases Instanciables.csproj": {
+              "projectPath": "E:\\Programacion\\Segundo cuatrimestre\\Laboratorio 2\\TPs\\TP-01\\TP 3\\Rocha.Facundo.2A.TP3\\Clases Instanciables\\Clases Instanciables.csproj"
+            },
+            "E:\\Programacion\\Segundo cuatrimestre\\Laboratorio 2\\TPs\\TP-01\\TP 3\\Rocha.Facundo.2A.TP3\\Excepciones\\Excepciones.csproj": {
+              "projectPath": "E:\\Programacion\\Segundo cuatrimestre\\Laboratorio 2\\TPs\\TP-01\\TP 3\\Rocha.Facundo.2A.TP3\\Excepciones\\Excepciones.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

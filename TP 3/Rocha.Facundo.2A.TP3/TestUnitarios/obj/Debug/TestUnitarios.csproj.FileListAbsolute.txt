@@ -1,0 +1,25 @@
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Archivos.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Clases Abstractas.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Clases Instanciables.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Clases Instanciables.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

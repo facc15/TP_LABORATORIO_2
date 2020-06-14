@@ -1,0 +1,18 @@
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Prueba.exe
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Prueba.deps.json
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.json
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.dev.json
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Prueba.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Prueba.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Clases Abstractas.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Excepciones.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Clases Abstractas.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\bin\Debug\netcoreapp3.1\Excepciones.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\obj\Debug\netcoreapp3.1\Prueba.csprojAssemblyReference.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\obj\Debug\netcoreapp3.1\Prueba.csproj.CoreCompileInputs.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfoInputs.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfo.cs
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\obj\Debug\netcoreapp3.1\Prueba.csproj.CopyComplete
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\obj\Debug\netcoreapp3.1\Prueba.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\obj\Debug\netcoreapp3.1\Prueba.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 3\Rocha.Facundo.2A.TP3\Prueba\obj\Debug\netcoreapp3.1\Prueba.genruntimeconfig.cache

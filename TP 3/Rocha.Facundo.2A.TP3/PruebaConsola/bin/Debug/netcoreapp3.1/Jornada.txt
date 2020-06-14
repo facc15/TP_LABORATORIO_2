@@ -1,0 +1,25 @@
+CLASE DE :Laboratorio
+PROFESOR :NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12224458
+
+
+LEGAJO NUMERO: 1
+CLASES DEL DIA: 
+Laboratorio
+Legislacion
+
+
+ALUMNOS : 
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+DNI: 91122456
+
+
+LEGAJO NUMERO: 7
+
+TOMA CLASE DE Laboratorio
+ESTADO DE CUENTA AlDia
+-------------------------------------------------
+
+
