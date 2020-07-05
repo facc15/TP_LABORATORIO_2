@@ -1,0 +1,28 @@
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TODO TP 2\TODO TP 4\Rocha.Facundo2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\bin\Debug\MainCorreo.exe.config
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\bin\Debug\MainCorreo.exe
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\bin\Debug\MainCorreo.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\bin\Debug\Entidades.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\bin\Debug\Entidades.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\bin\Debug\Entidades.dll.config
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\obj\Debug\MainCorreo.exe
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\TP 4\MainCorreo\obj\Debug\MainCorreo.pdb
