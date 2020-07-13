@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\ConsoleApp1\Rocha.Facundo.Recuperatorio.TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\ConsoleApp1\Rocha.Facundo.Recuperatorio.TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1\Rocha.Facundo.Recuperatorio.TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ConsoleApp1\Rocha.Facundo.Recuperatorio.TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1\Rocha.Facundo.Recuperatorio.TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\ConsoleApp1\Rocha.Facundo.Recuperatorio.TP1\Entidades\obj\Debug\Entidades.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\RecuperatoriosTP\RP - TP1\Entidades\bin\Debug\Entidades.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\RecuperatoriosTP\RP - TP1\Entidades\bin\Debug\Entidades.pdb
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\RecuperatoriosTP\RP - TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\RecuperatoriosTP\RP - TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\RecuperatoriosTP\RP - TP1\Entidades\obj\Debug\Entidades.dll
+E:\Programacion\Segundo cuatrimestre\Laboratorio 2\TPs\TP-01\RecuperatoriosTP\RP - TP1\Entidades\obj\Debug\Entidades.pdb
